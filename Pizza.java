@@ -1,16 +1,15 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Pizza here.
+ * Son el oebjtivo y puntuación.
  * 
  * @author Daniel Barco López
- * @version (31/01/2021)
+ * @version 0.1 (31/01/2021)
  */
 public class Pizza extends Actor
 {
     /**
-     * Act - do whatever the Pizza wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
+     * Tendra la funcion de aumentar el marcador.
      */
     public void act() 
     {

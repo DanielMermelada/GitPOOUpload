@@ -10,6 +10,8 @@ Atributos / Propiedades: Plantilla que define la esencia de un objeto, como su a
 
 “Public class”: Clase más genérica y global de un grupo de clases.
 
+Datos: Objeto de la clase.
+
 Maquina virtual Java - Compilador: Convierte el código fuente en un código de máquina que la computadora puede entender. 
 Esto garantiza que haya agregado el código fuente o la clase correctamente antes de continuar 
 

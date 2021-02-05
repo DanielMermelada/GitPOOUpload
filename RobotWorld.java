@@ -2,10 +2,10 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class RobotWorld here.
+ * Creación de los elementos en el mundo.
  * 
  * @author Daniel Barco López
- * @version (31/01/2021)
+ * @version 0.1 (31/01/2021)
  */
 public class RobotWorld extends World
 
@@ -22,6 +22,10 @@ public class RobotWorld extends World
         
         prepareScenario();
     }
+    /*
+     * Esta sub clase añade los objetos físicos mediante coordenadas
+     * 
+     */
     public void prepareScenario()
     {
        addObject (new Robot(),48,50);

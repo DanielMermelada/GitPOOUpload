@@ -1,16 +1,15 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Block here.
+ * Bloqueo que rota a velicdad de 2, obstaculo para el jugador.
  * 
  * @author Daniel Barco López 
- * @version (31/01/2021)
+ * @version 0.1 (31/01/2021)
  */
 public class Block extends Actor
 {
     /**
-     * Act - do whatever the Block wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
+     * Block, actua y se mueve a "2" de velocidad en las manecillas del reloj.
      */
     public void act() 
     {

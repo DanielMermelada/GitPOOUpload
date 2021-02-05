@@ -1,16 +1,15 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Home here.
+ * Casa, punto de control para el jugador.
  * 
  * @author Daniel Barco López 
- * @version (31/01/2021)
+ * @version 0.1 (31/01/2021)
  */
 public class Home extends Actor
 {
     /**
-     * Act - do whatever the Home wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
+     * Home tendrá la funcion de ser la "salida del juego".
      */
     public void act() 
     {

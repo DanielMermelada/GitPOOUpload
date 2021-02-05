@@ -1,16 +1,15 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Robot here.
+ * El robot, que es manejado por el jugador mediante el teclado.
  * 
  * @author Daniel Barco López
- * @version (31/01/2021)
+ * @version 0.1 (31/01/2021)
  */
 public class Robot extends Actor
 {
     /**
-     * Act - do whatever the Robot wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
+     * Este se mueve mediante las teclas de movimiento del teclado.
      */
     public void act() 
     {
